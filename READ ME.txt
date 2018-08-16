@@ -1,0 +1,11 @@
+1. Unzip the file into the file directory you want.
+
+2. Make sure Node.js is installed since we'll need it to run the webpage on the node.js server
+
+3. Make sure React and Redux are installed aswell since the website uses these languages are in the script.
+
+4. Launch up the command line.
+
+5. Type in cd and copy and paste the directory the folder is in.
+
+6. Now type in "npm start" and the application will launch on your web browser seen via localhost:3000
